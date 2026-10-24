@@ -10,3 +10,4 @@ I'm a web developer from Pakistan. I build clean, fast, mobile-friendly websites
 
 ### Sample Projects
 - [Aura Cafe Demo](https://aura-cafe-woad.vercel.app): React cafe website with menu, reservations and animations
+- [Aura Dental Demo](https://aur-dental-clinic-liard.vercel.app): React dental clinic website with services, doctors, FAQ and appointment form
