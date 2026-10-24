@@ -9,4 +9,4 @@ I'm a web developer from Pakistan. I build clean, fast, mobile-friendly websites
 - 📫 **Contact:** Message me on Fiverr (link coming soon)
 
 ### Sample Projects
-Coming soon: demo websites with live links.
+- [Aura Cafe Demo](https://aura-cafe-woad.vercel.app): React cafe website with menu, reservations and animations
