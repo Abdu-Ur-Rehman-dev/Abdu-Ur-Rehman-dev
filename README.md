@@ -14,3 +14,4 @@ I'm a web developer from Pakistan. I build clean, fast, mobile-friendly websites
 1. [Dental Clinic Website](https://dental-clinic-website-eight-lemon.vercel.app) — Premium Dental Clinic Website
 
 2. [AUR Café Website](https://aur-cafe.vercel.app) — Premium Animated Café Website
+3. [AUR Muse Cosmetics Website](https://aur-muse-cosmetics.vercel.app) — Premium Beauty & Cosmetics Website
