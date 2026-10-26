@@ -15,3 +15,4 @@ I'm a web developer from Pakistan. I build clean, fast, mobile-friendly websites
 
 2. [AUR Café Website](https://aur-cafe.vercel.app) — Premium Animated Café Website
 3. [AUR Muse Cosmetics Website](https://aur-muse-cosmetics.vercel.app) — Premium Beauty & Cosmetics Website
+4. [Aetheria Digital Studio](https://aetheria-premium-digital-studio.vercel.app) — Premium Animated Digital Agency Website
