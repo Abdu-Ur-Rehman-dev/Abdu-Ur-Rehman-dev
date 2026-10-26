@@ -9,4 +9,8 @@ I'm a web developer from Pakistan. I build clean, fast, mobile-friendly websites
 - 📫 **Contact:** Message me on Fiverr (link coming soon)
 
 ### Sample Projects
-https://dental-clinic-website-eight-lemon.vercel.app (Premium Dental Clinic Website)
+### Sample Projects
+
+1. [Dental Clinic Website](https://dental-clinic-website-eight-lemon.vercel.app) — Premium Dental Clinic Website
+
+2. [AUR Café Website](https://aur-cafe.vercel.app) — Premium Animated Café Website
